@@ -5,17 +5,6 @@ This repository defines the infrastructure and scripts required to provision a s
 
 ---
 
-# Repository Structure
-
-main.tf # Main Terraform configuration.
-variables.tf # Input variables for the Terraform project.
-outputs.tf # Output values from Terraform.
-modules/ # Reusable Terraform modules (e.g., network, compute).
-install_wordpress.sh.tpl # Template script to install WordPress.
-.gitignore # Files/folders to ignore in Git.
-
----
-
 ## Setup & Deployment
 
 1. **Clone the repository**
