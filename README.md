@@ -11,22 +11,23 @@ This repository defines the infrastructure and scripts required to provision a s
 ```
 git clone https://github.com/rajab-m/terraform-deployment.git
 cd terraform-deployment
----
+```
+
 2. **Initialize Terraform**
 ```
 terraform init
 ```
----
+
 3. **Review the plan**
 ```
 terraform plan
 ```
----
+
 4. **Apply the configuration**
 ```
 terraform apply
 ```
----
+
 5. **Destroy resources (if needed)**
 ```
 terraform destroy
