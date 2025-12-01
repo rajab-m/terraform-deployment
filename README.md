@@ -7,7 +7,6 @@ This repository defines the infrastructure and scripts required to provision a s
 
 ## Repository Structure
 
-.
 main.tf # Main Terraform configuration.
 variables.tf # Input variables for the Terraform project.
 outputs.tf # Output values from Terraform.
