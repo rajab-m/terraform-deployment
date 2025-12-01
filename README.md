@@ -33,4 +33,4 @@ terraform apply
 terraform destroy
 ```
 > **Note:** Sensitive data such as cloud provider credentials, database passwords, or SSH keys **should not be stored in the repository**.  
-> These values must be provided **at runtime** via environment variables, `terraform.tfvars`, or input prompts during `terraform apply`.
+> These values must be provided **at runtime** via environment variables, `terraform.tfvars`, or input prompts during `terraform apply` as i did in this project.
