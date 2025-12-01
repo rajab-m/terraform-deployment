@@ -5,7 +5,7 @@ This repository defines the infrastructure and scripts required to provision a s
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 main.tf # Main Terraform configuration.
 variables.tf # Input variables for the Terraform project.
