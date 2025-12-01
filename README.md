@@ -12,22 +12,22 @@ This repository defines the infrastructure and scripts required to provision a s
 git clone https://github.com/rajab-m/terraform-deployment.git
 cd terraform-deployment
 
-1. **Initialize Terraform
+2. **Initialize Terraform**
 ```bash
 terraform init
 
 
-2. **Review the plan
+3. **Review the plan**
 ```bash
 terraform plan
 
 
-3. **Apply the configuration
+4. **Apply the configuration**
 ```bash
 terraform apply
 
 
-4. **Destroy resources (if needed)**
+5. **Destroy resources (if needed)**
 ```bash
 terraform destroy
 
